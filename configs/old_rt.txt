@@ -1,0 +1,5 @@
+# routetable.txt
+#
+# SubnetAddr    SubnetMask      Iface    Gateway
+0.0.0.0         0.0.0.0         eth0     163.117.144.2
+163.117.144.0     255.255.255.0   eth0     0.0.0.0
