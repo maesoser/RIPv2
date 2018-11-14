@@ -12,6 +12,12 @@ In order to have an easier access to the linux raw sockets, our teacher [Manuel 
 
 ### Network Access (Raw and Ethernet)
 
+![Ethernet](https://steveinit.files.wordpress.com/2017/12/ethernet-frame-page-1.png?w=940)
+
+### ARP frame
+
+![ARP](https://3.bp.blogspot.com/-FarNbNAGm54/WCLV0N88oJI/AAAAAAAADj0/SFktyQ5K7isi_eA2B5RZHIuy_sqXsmDUwCLcB/s640/ARP%2BHeader.png)
+
 ### Internet (IP)
 
 ![IPv4](https://nmap.org/book/images/hdr/MJB-IP-Header-800x576.png)
